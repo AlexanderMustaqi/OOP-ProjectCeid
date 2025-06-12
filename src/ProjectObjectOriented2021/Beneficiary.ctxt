@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Beneficiary
+comment1.params=Name\ Id\ noPeople
+comment1.target=Beneficiary(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=int\ getnoPeople()
+comment3.params=
+comment3.target=java.util.ArrayList\ getRequestList()
+comment4.params=
+comment4.target=java.util.ArrayList\ getReceivedList()
+comment5.params=
+comment5.target=void\ showcaseReceivedList()
+comment6.params=
+comment6.target=void\ showcaseRequestList()
+comment7.params=
+comment7.target=void\ clearRequestList()
+comment8.params=
+comment8.target=void\ clearReceivedList()
+comment9.params=R
+comment9.target=void\ addRequest(Request)
+numComments=10
